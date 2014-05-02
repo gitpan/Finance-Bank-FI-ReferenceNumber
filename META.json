@@ -14,6 +14,11 @@
    },
    "name" : "Finance-Bank-FI-ReferenceNumber",
    "prereqs" : {
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.30"
+         }
+      },
       "develop" : {
          "requires" : {
             "Pod::Coverage::TrustPod" : "0",
@@ -60,7 +65,7 @@
          "web" : "http://github.com/okko/Finance-Bank-FI-ReeferenceNumber"
       }
    },
-   "version" : "0.001",
+   "version" : "0.002",
    "x_authority" : "cpan:OKKO"
 }
 

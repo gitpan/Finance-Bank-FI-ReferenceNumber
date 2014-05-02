@@ -20,6 +20,8 @@ build_requires:
   perl: '5.006'
   strict: '0'
   warnings: '0'
+configure_requires:
+  ExtUtils::MakeMaker: '6.30'
 dynamic_config: 0
 generated_by: 'Dist::Zilla version 5.015, CPAN::Meta::Converter version 2.140640'
 license: perl
@@ -33,5 +35,5 @@ requires:
   utf8: '0'
 resources:
   repository: git://github.com/okko/Finance-Bank-FI-ReferenceNumber.git
-version: '0.001'
+version: '0.002'
 x_authority: cpan:OKKO
