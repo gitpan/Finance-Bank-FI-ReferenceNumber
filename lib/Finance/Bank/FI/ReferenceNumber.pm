@@ -2,7 +2,7 @@ package Finance::Bank::FI::ReferenceNumber;
 BEGIN {
   $Finance::Bank::FI::ReferenceNumber::AUTHORITY = 'cpan:OKKO';
 }
-$Finance::Bank::FI::ReferenceNumber::VERSION = '0.002';
+$Finance::Bank::FI::ReferenceNumber::VERSION = '0.003';
 use Moose;
 use namespace::autoclean;
 use utf8;

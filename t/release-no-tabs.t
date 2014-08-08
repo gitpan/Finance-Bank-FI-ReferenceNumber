@@ -30,7 +30,6 @@ my @files = (
     't/release-check-changes.t',
     't/release-kwalitee.t',
     't/release-no-tabs.t',
-    't/release-pod-coverage.t',
     't/release-pod-syntax.t'
 );
 
