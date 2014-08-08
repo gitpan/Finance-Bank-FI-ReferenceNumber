@@ -36,14 +36,13 @@ my %WriteMakefileArgs = (
     "IPC::Open3" => 0,
     "Test::More" => 0,
     "Test::Pod" => "1.14",
-    "Test::Pod::Coverage" => "1.04",
     "Test::WWW::Mechanize::Catalyst" => 0,
     "lib" => 0,
     "ok" => 0,
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.003",
+  "VERSION" => "0.004",
   "test" => {
     "TESTS" => "t/*.t t/author/*.t"
   }
@@ -62,7 +61,6 @@ my %FallbackPrereqs = (
   "Moose" => 0,
   "Test::More" => 0,
   "Test::Pod" => "1.14",
-  "Test::Pod::Coverage" => "1.04",
   "Test::WWW::Mechanize::Catalyst" => 0,
   "lib" => 0,
   "namespace::autoclean" => 0,

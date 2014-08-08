@@ -45,7 +45,6 @@
             "IPC::Open3" : "0",
             "Test::More" : "0",
             "Test::Pod" : "1.14",
-            "Test::Pod::Coverage" : "1.04",
             "Test::WWW::Mechanize::Catalyst" : "0",
             "lib" : "0",
             "ok" : "0",
@@ -63,7 +62,7 @@
          "web" : "http://github.com/okko/Finance-Bank-FI-ReeferenceNumber"
       }
    },
-   "version" : "0.003",
+   "version" : "0.004",
    "x_authority" : "cpan:OKKO"
 }
 

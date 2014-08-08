@@ -19,7 +19,6 @@ my @files = (
     't/00-compile.t',
     't/00-load.t',
     't/author-critic.t',
-    't/author/pod-coverage.t',
     't/author/pod.t',
     't/lib/Makefile.PL',
     't/lib/TestApp.pm',
